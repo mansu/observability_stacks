@@ -16,4 +16,36 @@ Google monarch: [@scale talk in 2019](https://atscaleconference.com/videos/syste
 
 
 ## Yahoo
+### Metrics
+[OpenTSDB](http://opentsdb.net/) 
+### Events
+### Logs
+### Traces
 
+## Uber
+### Metrics
+[m3db](https://www.m3db.io/)
+### Events
+### Logs
+### Traces
+[Jaegar](https://www.jaegertracing.io/)
+
+## Pinterest
+### Metrics
+[OpenTSDB](http://opentsdb.net/) 
+
+[Goku](https://medium.com/pinterest-engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181)
+
+[Yuvi](https://github.com/pinterest/yuvi)
+### Events
+### Logs
+[Elastic search - Kibana](https://github.com/elastic/elasticsearch)
+### Traces
+[Pintrace](https://medium.com/pinterest-engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
+
+## Twitter
+### Metrics
+
+### Events
+### Logs
+### Traces
